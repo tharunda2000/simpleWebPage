@@ -1,0 +1,78 @@
+
+.body1{
+  text-align:center;
+  margin: auto;
+}
+
+h2{
+    
+    color: aliceblue;
+    font-family: Arial, sans-serif;
+    font-size: xx-large;
+    
+}
+
+h1{
+    
+    color: aliceblue;
+    font-size: xx-large;
+    line-height: 15px;
+
+}
+
+h4{
+    color: aliceblue;
+    
+    font-family: sans-serif;
+    font-size: smaller;
+    line-height: 1px;
+    
+}
+
+body{
+    background-color:rgb(31, 101, 128);
+    margin: 2cm;
+    margin-left: 2cm;
+    margin-right: 2cm;
+    
+}
+
+  .vid1{
+    text-align: center;
+  }
+
+ button{
+  background-color: rgb(232, 139, 18);
+  border-radius: 8px;
+  width: 120px;
+  height: 35px;
+  font-size: 10px;
+  color: azure;
+  border: 0cap;
+ }
+
+ h5{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif  ;
+  font-size: 50px ;
+  color: azure;
+  line-height: 0.1px;
+ }
+
+ table, th, td {
+  
+  border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
